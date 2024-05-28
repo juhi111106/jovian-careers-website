@@ -1,2 +1,2 @@
-# jovian-careers-website
-A careers website for Jovian
+# juhi-careers-website
+A careers website for juhi
